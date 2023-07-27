@@ -34,5 +34,11 @@ $i = [
 ];
 
 foreach ($i as $language => $fullForm) :
+    if($language == "php"):
+        continue;
+    elseif($language == "js"):
+        break;
+    endif;
     echo "{$language} : {$fullForm}<br />";
 endforeach;
+unset($fullForm, $language);
