@@ -1,0 +1,8 @@
+Note: Data Entry only in Light Blue cells.,,,,No. of Permissible Days,,,15,,,,,,,,
+,,,,Late Return Penalty Per Day,,,2,,,,,,,,
+Book Issuance Register,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+Sr. No.,Reference Sr. No.,Catagory,Title of the Book,Author,Date of Issue,Borrower's Name,Borrower's ID Card No.,Borrower Class & Div.,Book to be returned latest by,Book Return Date,No. of days delayed,Penalty charged for delayed period (Rs.),Book Returned in good condition,If no then Penalty Charged (Rs.),Remarks
+1,1,,,,12/06/2019,abc,333333,5-A,27/06/2019,03/07/2019,6,12,No,390,
+2,2,,,,,,,,,,,,,,
