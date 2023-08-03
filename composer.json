@@ -1,0 +1,18 @@
+{
+    "description": "This package is for creating random uid's",
+    "type": "project",
+    "require": {
+        "ramsey/uuid": "4.7.4"
+    },
+    "license": "License issued by Dilshad",
+    "autoload": {
+        "psr-4": {
+            "Ramsey\\Uuid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dilshad"
+        }
+    ]
+}
